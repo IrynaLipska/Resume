@@ -73,7 +73,7 @@ body {
 }
 
 .about {
-  padding: 100px;
+  padding: 50px;
   background: #bebebe;
   text-align: center;
 }
@@ -85,7 +85,7 @@ body {
 }
 
 .text {
-  max-width: 470px;
+  max-width: 600px;
   margin: 0 auto;
   margin-bottom: 30px;
   line-height: 25px;
