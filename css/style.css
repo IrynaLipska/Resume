@@ -92,5 +92,18 @@ body {
 }
 
 section:nth-of-type(2n) {
-  background-color: #e0e0e0;
+  background-color: #eeeaea;
+}
+
+.skills-list {
+  display: flex;
+  /* align-items: center; */
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.skills_img {
+  max-height: 80px;
+  width: auto;
 }
