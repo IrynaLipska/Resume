@@ -72,9 +72,11 @@ body {
   object-position: 50% 20%;
 }
 
-.about {
+.about,
+.skills,
+.projects {
   padding: 50px;
-  background: #bebebe;
+  /* background: #bebebe; */
   text-align: center;
 }
 
